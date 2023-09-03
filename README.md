@@ -1,5 +1,4 @@
-# flutter_news_app_ui
-
+# 📰NewsBee
 A new Flutter project.
 
 ## Getting Started
